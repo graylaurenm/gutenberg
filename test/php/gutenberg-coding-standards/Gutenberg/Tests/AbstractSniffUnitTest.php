@@ -13,6 +13,9 @@ use PHP_CodeSniffer\Tests\Standards\AbstractSniffUnitTest as BaseAbstractSniffUn
 use PHP_CodeSniffer\Ruleset;
 use PHP_CodeSniffer\Sniffs\Sniff;
 
+/**
+ * An abstract test class that contains common methods for all sniff unit tests.
+ */
 abstract class AbstractSniffUnitTest extends BaseAbstractSniffUnitTest {
 
 	/**
