@@ -2,8 +2,9 @@
 /**
  * Gutenberg Coding Standards.
  *
- * @package Gutenberg
- * @subpackage gutenberg/gutenberg-coding-standards
+ * @package gutenberg/gutenberg-coding-standards
+ * @link    https://github.com/WordPress/gutenberg/tree/trunk/test/php/gutenberg-coding-standards
+ * @license https://opensource.org/licenses/MIT MIT
  */
 
 namespace GutenbergCS\Gutenberg\Sniffs\NamingConventions;

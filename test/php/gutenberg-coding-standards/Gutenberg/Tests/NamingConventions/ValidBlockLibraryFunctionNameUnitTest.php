@@ -2,8 +2,9 @@
 /**
  * Unit test class for Gutenberg Coding Standard.
  *
- * @package Gutenberg
- * @subpackage gutenberg/gutenberg-coding-standards
+ * @package gutenberg-coding-standards/gbc
+ * @link    https://github.com/WordPress/gutenberg/tree/trunk/test/php/gutenberg-coding-standards
+ * @license https://opensource.org/licenses/MIT MIT
  */
 
 namespace GutenbergCS\Gutenberg\Tests\NamingConventions;
