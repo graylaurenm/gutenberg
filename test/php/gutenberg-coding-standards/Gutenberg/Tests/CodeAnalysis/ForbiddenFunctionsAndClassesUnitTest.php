@@ -4,7 +4,6 @@
  *
  * @package gutenberg-coding-standards/gbc
  * @link    https://github.com/WordPress/gutenberg/tree/trunk/test/php/gutenberg-coding-standards
- * @license https://opensource.org/licenses/MIT MIT
  */
 
 namespace GutenbergCS\Gutenberg\Tests\CodeAnalysis;
