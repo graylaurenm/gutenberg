@@ -4,9 +4,8 @@
  *
  * Initializes the environment for running GBCS tests.
  *
- * @package gutenberg/gutenberg-coding-standards
- * @link    https://github.com/WordPress/gutenberg/tree/trunk/test/php/gutenberg-coding-standards
- * @license https://opensource.org/licenses/MIT MIT
+ * @package Gutenberg
+ * @subpackage gutenberg/gutenberg-coding-standards
  */
 
 if ( ! defined( 'PHP_CODESNIFFER_IN_TESTS' ) ) {

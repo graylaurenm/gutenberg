@@ -2,9 +2,8 @@
 /**
  * Gutenberg Coding Standards.
  *
- * @package gutenberg/gutenberg-coding-standards
- * @link    https://github.com/WordPress/gutenberg/tree/trunk/test/php/gutenberg-coding-standards
- * @license https://opensource.org/licenses/MIT MIT
+ * @package Gutenberg
+ * @subpackage gutenberg/gutenberg-coding-standards
  */
 
 namespace GutenbergCS\Gutenberg\Sniffs\CodeAnalysis;

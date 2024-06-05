@@ -2,9 +2,8 @@
 /**
  * Unit test class for Gutenberg Coding Standard.
  *
- * @package gutenberg-coding-standards/gbc
- * @link    https://github.com/WordPress/gutenberg/tree/trunk/test/php/gutenberg-coding-standards
- * @license https://opensource.org/licenses/MIT MIT
+ * @package Gutenberg
+ * @subpackage gutenberg/gutenberg-coding-standards
  */
 
 namespace GutenbergCS\Gutenberg\Tests\CodeAnalysis;
