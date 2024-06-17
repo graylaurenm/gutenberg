@@ -450,7 +450,8 @@ function Iframe( {
 		<div
 			className={ clsx(
 				'block-editor-iframe__container',
-				isZoomedOut && 'is-zoomed-out'
+				isZoomedOut && 'is-zoomed-out',
+				! props.style?.height && 'with-frame-flex-height'
 			) }
 			ref={ windowResizeRef }
 		>
